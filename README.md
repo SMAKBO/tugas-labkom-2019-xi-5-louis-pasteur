@@ -7,4 +7,4 @@ tugas-labkom-2019-xi-5-louis-pasteur created by GitHub Classroom
 5. Marjallika Naufal Ramadhany 17.63.08705
 6. Muhammad Afdhal Maliki Akbar 17.63.08717
 7. Mutiara Isnaeni 17.63.08753
-8.Mhanx Garox 99.45.69696
+
