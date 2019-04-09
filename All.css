@@ -5,7 +5,7 @@
   padding:0;
 }
 header{
-  background-image:url(wall.jpg);
+  background-image:url(wp.jpg);
   height:150vh;
   background-size: cover;
   background-position:center;
@@ -73,29 +73,118 @@ footer
 }
 .career
 {
-  background-color: #b3e6ff; 
+  background-color: #b3b3ff; 
   color: black;
-  border: double #00e6e6;
+  border: 6px;
+  border-color: #e60000;
+  border-left-style: groove;
+  border-bottom-style: none;
+  border-right-style: none;
+  border-top-style: none;
   text-align: center;
-  font-size: 28px;
+  font-size: 35px;
   position: absolute;
   left: 30px;
   padding: 0;
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 80px;
+  margin-top: 70px;
+  margin-bottom: 150px;
+  margin-right: 130px;
+  margin-left: 150px;
 }
 .career-1
 {
-   background-color: #1affc6; color: black;border: inset ; font-size: 20px; 
+   background-color: #000033  ; color: white;border: groove; ; font-size: 20px; 
   bottom: 0;
   right: 0 ; 
   position:absolute;
   margin-top: 80px;
-  margin-bottom: 200px;
-  margin-right: 150px;
-  margin-left: 80px;
+  margin-bottom: 310px;
+  margin-right: 270px;
+  margin-left: 20px;
+}
+.career-2
+{
+   background-color: #00004d; color: white;border: groove; ; font-size: 20px; 
+  bottom: 0;
+  right: 0 ; 
+  position:absolute;
+  margin-top: 80px;
+  margin-bottom: 20px;
+  margin-right: 70px;
+  margin-left: 270px;
+}
+.career-3
+{
+     background-color: #000066; color: white;border: groove; ; font-size: 20px; 
+  bottom: 0;
+  right: 0 ; 
+  position:absolute;
+  margin-top: 80px;
+  margin-bottom: -295px;
+  margin-right: 270px;
+  margin-left: 20px;
+}
+.p-1
+{
+  background-color: #9999ff  ; color: black;border: groove; ; font-size: 20px; 
+  bottom: 0;
+  right: 0 ; 
+  position:absolute;
+  margin-top: 100px;
+  margin-bottom: 450px;
+  margin-right: 1200px;
+  margin-left: 20px;
+}
+.p-2
+{
+  background-color: #9999ff  ; color: black;border: groove; ; font-size: 20px; 
+  bottom: 0;
+  right: 0 ; 
+  position:absolute;
+  margin-top: 100px;
+  margin-bottom: 215px;
+  margin-right: 200px;
+  margin-left: 20px;
+}
+.p-3
+{
+  background-color: #9999ff  ; color: black;border: groove; ; font-size: 20px; 
+  bottom: 0;
+  right: 0 ; 
+  position:absolute;
+  margin-top: 100px;
+  margin-bottom: -50px;
+  margin-right: 1200px;
+  margin-left: 20px;
+}
+.ps-1
+{
+  position: absolute;
+  top: 25%;
+  left: 83%;
+}
+.ps-2
+{
+  position: absolute;
+  top: 65%;
+  left: 5%;
+}
+.ps-3
+{
+  position: absolute;
+  top: 113%;
+  left: 83%;
+}
+.footer {
+   position: absolute;
+   display: block;
+   left: 0;
+   bottom: -60%;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
+   font-size: 20px;
 }
 .majorworks
 {
@@ -280,7 +369,4 @@ footer
   margin-bottom: 200px;
   margin-right: 150px;
   margin-left: 80px;
-}
-
-
 }

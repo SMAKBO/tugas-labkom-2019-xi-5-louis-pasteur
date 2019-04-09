@@ -189,3 +189,15 @@ footer
   color: white;
   border: 3px solid black;
 }
+.footer-1
+{
+   position: absolute;
+   display: block;
+   left: 0;
+   bottom: -160%;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
+   font-size: 20px; 
+}
