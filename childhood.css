@@ -50,7 +50,7 @@ footer
   right: 0 ; 
   position:absolute;
   margin-top: 90px;
-  margin-bottom: 120px;
+  margin-bottom: 140px;
   margin-right: 150px;
   margin-left: 80px;
   text-align: center;
@@ -77,8 +77,17 @@ footer
 .img-1
 {
   position: absolute;
-  top: 85%;
+  top: 92%;
   left: 25%;
   }
+h2
+{
+  position: absolute;
+  top: 83%;
+  left: 36%;
+  color: white;
+  text-align: center;
+
+}
 
   
